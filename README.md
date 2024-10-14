@@ -1,5 +1,9 @@
 # Dot Spinner Loader
 
+![17289311862518965079954020067262](https://github.com/user-attachments/assets/45a89633-6537-4aaa-8ea9-62d65bc1772a)
+
+
+
 This project showcases a dot spinner loader animation using HTML and CSS.
 
 ## Preview
